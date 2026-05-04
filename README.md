@@ -1,4 +1,4 @@
-# 🤖 deep-seek-with-claude-code
+# deep-seek-with-claude-code
 ![Claude Code running with DeepSeek V4 Pro](./preview.webp)
 
 Use Claude Code, the best AI coding agent on the market, with much cheaper model backends like DeepSeek V4.
