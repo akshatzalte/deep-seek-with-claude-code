@@ -17,6 +17,9 @@ Once you have `claude` running in your terminal, come back here.
 ---
 
 ## Adding DeepSeek as Your Backend
+![Claude Code running with DeepSeek V4 Pro](./assets/terminal.png)
+
+> The `/model` selector showing DeepSeek V4 Pro as the active backend. The `$3/$15` price label is cosmetic. Your actual bill goes to DeepSeek at their rates.
 
 By default, Claude Code uses Anthropic's own models — which are excellent but can get expensive at scale. Claude Code supports custom model backends via environment variables. Because DeepSeek exposes an **Anthropic-compatible API**, you can redirect all traffic there — no code changes, same CLI, same workflow.
 
