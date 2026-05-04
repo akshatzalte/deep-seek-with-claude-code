@@ -17,7 +17,7 @@ Once you have `claude` running in your terminal, come back here.
 ---
 
 ## Adding DeepSeek as Your Backend
-![Claude Code running with DeepSeek V4 Pro](./assets/terminal.png)
+![Claude Code running with DeepSeek V4 Pro](./preview.webp)
 
 > The `/model` selector showing DeepSeek V4 Pro as the active backend. The `$3/$15` price label is cosmetic. Your actual bill goes to DeepSeek at their rates.
 
